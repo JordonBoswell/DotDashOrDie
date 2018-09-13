@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">DotDashOrDie</string>
+
+    <string name="training_button_text">Training</string>
+    <string name="settings_button_text">Settings</string>
+    <string name="morse_button_text">Soundboard</string>
+
+    <!--- From 0 to 9 -->
+    <string-array name="number_array">
+        <item>-----</item>
+        <item>.----</item>
+        <item>..---</item>
+        <item>...--</item>
+        <item>....-</item>
+        <item>.....</item>
+        <item>-....</item>
+        <item>--...</item>
+        <item>---..</item>
+        <item>----.</item>
+
+    </string-array>
+
+    <string-array name = "english_character_array">
+        <item>a</item>
+        <item>.-</item>
+        <item>b</item>
+        <item>-...</item>
+        <item>c</item>
+        <item>-.-.</item>
+        <item>d</item>
+        <item>-..</item>
+        <item>e</item>
+        <item>.</item>
+        <item>f</item>
+        <item>..-.</item>
+        <item>g</item>
+        <item>--.</item>
+        <item>h</item>
+        <item>....</item>
+        <item>i</item>
+        <item>..</item>
+        <item>j</item>
+        <item>.---</item>
+        <item>k</item>
+        <item>-.-</item>
+        <item>l</item>
+        <item>.-..</item>
+        <item>m</item>
+        <item>--</item>
+        <item>n</item>
+        <item>-.</item>
+        <item>o</item>
+        <item>---</item>
+        <item>p</item>
+        <item>.--.</item>
+        <item>q</item>
+        <item>--.-</item>
+        <item>r</item>
+
+        <item>.-.</item>
+        <item>s</item>
+        <item>...</item>
+        <item>t</item>
+        <item>-</item>
+        <item>u</item>
+        <item>..-</item>
+        <item>v</item>
+        <item>...-</item>
+        <item>w</item>
+        <item>.--</item>
+        <item>x</item>
+        <item>-..-</item>
+        <item>y</item>
+        <item>-.--</item>
+        <item>z</item>
+        <item>--..</item>
+
+    </string-array>
+</resources>
